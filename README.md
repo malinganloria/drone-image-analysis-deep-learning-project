@@ -1,14 +1,14 @@
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Dependecies](#Dependencies)
-- [Development](#Development)
-- [About the Developers](#about-the-Developers)
+- [Dependecies](#dependencies)
+- [Development](#development)
+- [About the Developers](#about-the-developers)
 
 ## About the Project
 
 This is a program made as part of the Drone Image Analysis project for the [International Rice Research Institute](http://irri.org/). It processes drone images for input to a deep learning neural network regression model that predicts rice phenotype.
 
-## Dependecies
+## Dependencies
 
 The programs require the following libraries and modules to be installed:
 
