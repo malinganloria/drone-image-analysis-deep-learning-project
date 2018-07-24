@@ -1,7 +1,7 @@
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Dependecies](#dependencies)
-- [Development](#development)
+- [Dependecies](# dependencies)
+- [Development](# development)
 - [About the Developers](#about-the-Developers)
 
 ## About the Project
