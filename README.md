@@ -38,7 +38,7 @@ To run the programs, open a terminal and follow these steps:
     - This should generate a tif file which is the detected rice field inside the same directory.
 3.  Run this command on your terminal `python extract.py`
     - This should generate a csv file that contains the extracted data from the drone image in a directory named model.
-4.  Go to that directory by typing `cd model`
+4.  Go to that directory by typing `cd ../model`
 5.  Run this command `python dnn.py` to build and train the deep learning regression model.
     - This should generate logs containing the loss and mean absolute error of each epoch during training. The values are displayed automatically in the terminal.
 6.  For a better visualization, run this command: `tensorboard --logdif=logs/` and enter this URL `http:localhost:6006` using any browser.
